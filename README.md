@@ -1,3 +1,9 @@
+Steps to setup the project:
+
+1. First you need to unzip the folder and open it with any editor like VS code
+2. run "npm install" command
+3. run "npm start" command
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
